@@ -1,0 +1,16 @@
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+E:\Prework-CodeChallenges\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
